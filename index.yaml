@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  adguard-home:
+  - apiVersion: v2
+    created: "2024-01-07T21:38:53.810750948Z"
+    description: A generated Helm Chart for adguard-home from Skippbox Kompose
+    digest: 82a1712ac45498263206af4d89fae6c0c281b4893f928c98da52f9d3380958bf
+    keywords:
+    - adguard-home
+    name: adguard-home
+    urls:
+    - https://github.com/mjrealm/charts/releases/download/adguard-home-0.0.1/adguard-home-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-01-07T21:38:53.810760986Z"
