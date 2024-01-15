@@ -11,4 +11,16 @@ entries:
     urls:
     - https://github.com/mjrealm/charts/releases/download/adguard-home-0.0.1/adguard-home-0.0.1.tgz
     version: 0.0.1
-generated: "2024-01-07T21:38:53.810760986Z"
+  overseerr:
+  - apiVersion: v2
+    created: "2024-01-15T00:15:42.463836903Z"
+    dependencies:
+    - name: app-template
+      repository: https://bjw-s.github.io/helm-charts
+      version: 2.4.0
+    digest: 26073f46f6d5b050b0b8bc706e0170b52c33e494d432928bdbbf78c60bfe03d1
+    name: overseerr
+    urls:
+    - https://github.com/mjrealm/charts/releases/download/overseerr-0.0.1/overseerr-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-01-15T00:15:42.463848545Z"
