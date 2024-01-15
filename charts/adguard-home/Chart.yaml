@@ -1,8 +1,0 @@
-name: adguard-home
-description: A generated Helm Chart for adguard-home from Skippbox Kompose
-version: 0.0.1
-apiVersion: v2
-keywords:
-  - adguard-home
-sources:
-home:
